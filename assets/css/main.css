@@ -171,10 +171,20 @@ input, select, textarea {
 	}
 
 	p {
+		font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+		font-size: 14px; 
+		font-style: normal; 
+		font-variant: normal; 
+		font-weight: 400; 
+		line-height: 20px; 
 		margin: 0 0 2em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+		font-size: 2.75em; 
+		font-style: normal; 
+		font-variant: normal; 
 		color: #ffffff;
 		font-weight: bold;
 		line-height: 1.5;
@@ -187,7 +197,26 @@ input, select, textarea {
 		}
 
 	h1 {
-		font-size: 2.75em;
+		/* option 1 */
+		font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; 
+		font-size: 2.75em; 
+		font-style: normal; 
+		font-variant: normal; 
+
+		/* option 2 */
+		/* font-family: "Brush Script MT", cursive; 
+		font-size: 2.75em; 
+		font-style: normal; 
+		font-variant: normal; */
+
+		/* option 3 */
+		/* font-family: Papyrus, fantasy; 
+		font-size: 24px; 
+		font-style: normal; 
+		font-variant: normal; 
+		font-weight: 700; 
+		line-height: 26.4px;  */
+		
 	}
 
 		h1.major {
