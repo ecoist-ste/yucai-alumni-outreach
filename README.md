@@ -1,2 +1,2 @@
 # yucai-alumni-outreach
- Connect Chongqing Yucai Secondary School Alumni for all Yucai students 
+ Client project: connecting Chongqing Yucai Secondary School Alumni for all Yucai students 
